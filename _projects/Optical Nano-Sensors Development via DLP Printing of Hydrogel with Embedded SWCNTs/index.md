@@ -13,5 +13,5 @@ skills:
 - SolidWorks
 - Troubleshooting (DMAIC)
 - Data-Driven Problem Solving (FMEA & RCA)
-main-image: /Project Picture 2.tif
+main-image: /_projects/Optical Nano-Sensors Development via DLP Printing of Hydrogel with Embedded SWCNTs/Project Picture 2.tif
 ---
