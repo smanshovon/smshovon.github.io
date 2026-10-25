@@ -7,17 +7,16 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Shovon's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: S M Abu Naser Shovon
+headline: Mechanical and Materials Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mechanical Engineer (BS/MS, PhD Candidate) with 5+ years of R&D work experience on prototyping & product development, manufacturing process improvements, and experimental & analytical methods.
+  Experienced in chemical processing, mechanical testing, manufacturing processes, 3D CAD modeling (SolidWorks), and additive manufacturing or 3D printing (SLA, DLP, FDM, and LPBF). Skilled in collaborating with cross-functional teams, structured problem-solving methodologies (DMAIC, FMEA, RCA), and statistical data analysis. Have strong communication and interpersonal skills, and leadership ability in technical project management.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
