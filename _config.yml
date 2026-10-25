@@ -24,15 +24,15 @@ profile_image: ./assets/images/profile-image/Shovon.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: ./assets/resume/Resume_Shovon.pdf # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: https://www.linkedin.com/in/s-m-abu-naser-shovon/   # https://www.linkedin.com/in/{your url slug} 
+  github:   # https://github.com/{your url slug} 
+  googlescholar: https://scholar.google.com/citations?user=2HlVg2wAAAAJ&hl=en      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -44,61 +44,57 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Materials Processing & Characterization
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - SEM
+    - UV Curing
+    - FTIR
+    - EDS
+    - Optical Microscopy
+    - 3D Optical Profilometry/Confocal Microscopy (Keyence)
+    - Rheology
+    - Chemical Etching
+    - Thermography (IR) Analysis
+  - category: Manufacturing and Machining
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - 3D Printing (SLA, DLP, FDM and LPBF)
+    - Metallurgical Sample Preparation (Cutting, Grinding, Polishing, Etching)
+    - Intense Pulsed Light (IPL) Sintering
+    - Instron Mechanical Testing (Tensile, Compression, 3-Point Bending)
+    - Transient Liquid Phase (TLP) Heat Treatment
+  - category: Design and Drawing
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - AutoCAD
+    - SolidWorks   
+  - category: Computing, Simulation, Programming, and Finite Element Analysis
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+    - MATLAB
+    - ABAQUS
+  - category: Documentation and Statistical Data Analysis
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
-
+    - Microsoft Office (Word, Excel, PowerPoint)
+    - Origin 50
+    - Minitab
+    - Statistical Methods (ANOVA, Regression, T-Tests, DOEs)
+  - category: Problem Solving Analysis
+    tools:
+    - Data-Driven Troubleshooting
+    - Failure Root-Cause Analysis (FMEA & RCA) 
+    - DMAIC
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/moeejveg
 
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#2c3333"
+  border: "#e0f2ef"
+  link: "#40b3a2"
+  highlight: "#2a9d8f"
+  background: "#f7fbfa"
+  light_background: "#f0f9f7"
 
 # A few examples. 
 basic theme:
