@@ -12,5 +12,5 @@ skills:
 - Electrical Testing
 - Data-Driven Problem Solving (FMEA & RCA)
 - Troubleshooting (DMAIC)
-main-image: /project.webp 
+main-image: /_projects/Photopolymer Resin Formulation Development and Mechanical Properties Improvements for DLP Printing/Project Picture 1.tif 
 ---
