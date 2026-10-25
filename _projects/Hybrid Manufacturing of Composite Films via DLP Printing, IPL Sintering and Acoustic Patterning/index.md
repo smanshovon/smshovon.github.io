@@ -9,5 +9,5 @@ skills:
 - Optical Microscopy
 - Electrical Testing
 - Metal-Photopolymer Ink Development
-main-image: /project.webp 
+main-image: /_projects/Hybrid Manufacturing of Composite Films via DLP Printing, IPL Sintering and Acoustic Patterning/Project Picture 3.tif
 ---
