@@ -19,19 +19,19 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Experienced in chemical processing, mechanical testing, manufacturing processes, 3D CAD modeling (SolidWorks), and additive manufacturing or 3D printing (SLA, DLP, FDM, and LPBF). Skilled in collaborating with cross-functional teams, structured problem-solving methodologies (DMAIC, FMEA, RCA), and statistical data analysis. Have strong communication and interpersonal skills, and leadership ability in technical project management.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Shovon.jpeg
+profile_image: /assets/images/profile-image/Shovon.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: ./assets/resume/Resume_Shovon.pdf # or /assets/resume/resume.pdf
+resume-url: /assets/resume/Resume_Shovon.pdf # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/s-m-abu-naser-shovon/   # https://www.linkedin.com/in/{your url slug} 
-  github:   # https://github.com/{your url slug} 
+  linkedin: https://www.linkedin.com/in/s-m-abu-naser-shovon   # https://www.linkedin.com/in/{your url slug} 
+  github:   https://github.com/smanshovon
   googlescholar: https://scholar.google.com/citations?user=2HlVg2wAAAAJ&hl=en      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -83,7 +83,7 @@ skills:
     - DMAIC
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/moeejveg
+formspree-key:   moeejveg
 
 
 
