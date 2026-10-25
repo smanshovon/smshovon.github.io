@@ -23,9 +23,9 @@ resume-url: /assets/resume/Resume_Shovon.pdf # or /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/s-m-abu-naser-shovon   # https://www.linkedin.com/in/{your url slug} 
-  github:   https://github.com/smanshovon
-  googlescholar: https://scholar.google.com/citations?user=2HlVg2wAAAAJ&hl=en      # https://stackoverflow.com/users/{your url slug}
+  linkedin: s-m-abu-naser-shovon   # https://www.linkedin.com/in/{your url slug} 
+  github:   smanshovon
+  googlescholar:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
