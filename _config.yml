@@ -1,177 +1,66 @@
-# Welcome to Jekyll!
-
-title: Shovon's Portfolio # This is what shows up in the tab of the browser
-
-
-
-# Hero Section
 name: S M Abu Naser Shovon
 headline: Mechanical and Materials Engineer
-description: >- # dont remove this line. this will ignore all new lines until the next section
+description: >-
   Mechanical Engineer (BS/MS, PhD Candidate) with 5+ years of R&D work experience on prototyping & product development, manufacturing process improvements, and experimental & analytical methods.
-  Experienced in chemical processing, mechanical testing, manufacturing processes, 3D CAD modeling (SolidWorks), and additive manufacturing or 3D printing (SLA, DLP, FDM, and LPBF). Skilled in collaborating with cross-functional teams, structured problem-solving methodologies (DMAIC, FMEA, RCA), and statistical data analysis. Have strong communication and interpersonal skills, and leadership ability in technical project management.
+  Experienced in chemical processing, mechanical testing, manufacturing processes, 3D CAD modeling (SolidWorks), and additive manufacturing or 3D printing (SLA, DLP, FDM, and LPBF). Skilled in collaboration and problem solving.
 
-# Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: /assets/images/profile-image/Shovon.jpeg
+resume-url: /assets/resume/Resume_Shovon.pdf
 
+external-links:
+  linkedin: s-m-abu-naser-shovon
+  github: smanshovon
+  googlescholar: 2HlVg2wAAAAJ
+  medium:
+  x-twitter:
+  threads:
+  instagram:
+  youtube:
+  discord:
+  bluesky:
 
-# Link your resume
-# You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: /assets/resume/Resume_Shovon.pdf # or /assets/resume/resume.pdf
-
-
-# Set up external links - this will show up as small icons next to your name.
-
-external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: s-m-abu-naser-shovon   # https://www.linkedin.com/in/{your url slug} 
-  github:   smanshovon
-  googlescholar:      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
-  
-
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
   - category: Materials Processing & Characterization
     tools:
-    - SEM
-    - UV Curing
-    - FTIR
-    - EDS
-    - Optical Microscopy
-    - 3D Optical Profilometry/Confocal Microscopy (Keyence)
-    - Rheology
-    - Chemical Etching
-    - Thermography (IR) Analysis
+      - SEM
+      - UV Curing
+      - FTIR
+      - EDS
+      - Optical Microscopy
+      - 3D Optical Profilometry/Confocal Microscopy (Keyence)
+      - Rheology
+      - Chemical Etching
+      - Thermography (IR) Analysis
+
   - category: Manufacturing and Machining
     tools:
-    - 3D Printing (SLA, DLP, FDM and LPBF)
-    - Metallurgical Sample Preparation (Cutting, Grinding, Polishing, Etching)
-    - Intense Pulsed Light (IPL) Sintering
-    - Instron Mechanical Testing (Tensile, Compression, 3-Point Bending)
-    - Transient Liquid Phase (TLP) Heat Treatment
+      - 3D Printing (SLA, DLP, FDM and LPBF)
+      - Metallurgical Sample Preparation (Cutting, Grinding, Polishing, Etching)
+      - Intense Pulsed Light (IPL) Sintering
+      - Instron Mechanical Testing (Tensile, Compression, 3-Point Bending)
+      - Transient Liquid Phase (TLP) Heat Treatment
+
   - category: Design and Drawing
     tools:
-    - AutoCAD
-    - SolidWorks   
+      - AutoCAD
+      - SolidWorks
+
   - category: Computing, Simulation, Programming, and Finite Element Analysis
     tools:
-    - MATLAB
-    - ABAQUS
+      - MATLAB
+      - ABAQUS
+
   - category: Documentation and Statistical Data Analysis
     tools:
-    - Microsoft Office (Word, Excel, PowerPoint)
-    - Origin 50
-    - Minitab
-    - Statistical Methods (ANOVA, Regression, T-Tests, DOEs)
+      - Microsoft Office (Word, Excel, PowerPoint)
+      - Origin 50
+      - Minitab
+      - Statistical Methods (ANOVA, Regression, T-Tests, DOEs)
+
   - category: Problem Solving Analysis
     tools:
-    - Data-Driven Troubleshooting
-    - Failure Root-Cause Analysis (FMEA & RCA) 
-    - DMAIC
+      - Data-Driven Troubleshooting
+      - Failure Root-Cause Analysis (FMEA & RCA)
+      - DMAIC
 
-# Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   moeejveg
-
-
-
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#2c3333"
-  border: "#e0f2ef"
-  link: "#40b3a2"
-  highlight: "#2a9d8f"
-  background: "#f7fbfa"
-  light_background: "#f0f9f7"
-
-# A few examples. 
-basic theme:
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
-  
-  mint theme:
-  text: "#2c3333"
-  border: "#e0f2ef"
-  link: "#40b3a2"
-  highlight: "#2a9d8f"
-  background: "#f7fbfa"
-  light_background: "#f0f9f7"
-  
-lemon theme:
-  text: "#2d2926"
-  border: "#f7f3e3"
-  link: "#ffc94d"
-  highlight: "#ffb800"
-  background: "#fffdf5"
-  light_background: "#fff9e6"
-  
-  pink theme:
-  text: "#2d2d2d"
-  border: "#f8e2e2"
-  link: "#ff8fa3"
-  highlight: "#ff4d6d"
-  background: "#fff8f8"
-  light_background: "#fff5f6"
-
-
-
-
-
-
-#########################################################################################################
-# Build settings for the site. Editing the below may cause the site to malfunction.
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
-
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: false
-      start_line: 1
-      indent: 0
-
-plugins:
-  - jekyll-feed
-
-include:
-  - _projects
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+formspree-key: moeejveg
